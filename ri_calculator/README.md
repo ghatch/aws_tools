@@ -1,4 +1,5 @@
 # Help
+```
 Usage: ri_calc.rb [options]
     -a, --az                         Display counts per AZ separately
     -e, --env name                   Display only a specific Environment
@@ -7,7 +8,7 @@ Usage: ri_calc.rb [options]
     -r, --ri                         Display all current server counts per AZ, and how many RIs have been purchased already
     -t, --time days                  Display only servers that have been active for longer than X days
     -h, --help                       Displays Help
-
+```
 
 # Example
 $ ./ri_calc.rb -r
