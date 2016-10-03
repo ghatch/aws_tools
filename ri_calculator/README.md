@@ -13,7 +13,7 @@ Usage: ri_calc.rb [options]
 $ ./ri_calc.rb -r
 Pricing list is older than 30 days, re-downloading it
 
-All - us-east-1a
+```All - us-east-1a
 ----------------------------------------------------------------------------------------------------
    t2.medium -  88 -  74 -  14 - ONDH: 0.7280   - PUFP: 2856     - PUFH: 0.1680   - PUFS:  32.14
     r3.large -   3 -   3 -   0 - ONDH: 0.0000   - PUFP: 0        - PUFH: 0.0000   - PUFS:    NaN
@@ -49,3 +49,4 @@ All - us-east-1b
   i2.2xlarge -   1 -   1 -   0 - ONDH: 0.0000   - PUFP: 0        - PUFH: 0.0000   - PUFS:    NaN
 ----------------------------------------------------------------------------------------------------
 Total Nodes: 92 - RI Buy Count: 4 - Total RI PUFP: 3260 - Total RI PUFH: 0.3700
+```
